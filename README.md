@@ -24,3 +24,5 @@ User Interface: Design a user-friendly interface with clear instructions and
 feedback
 
 #Output of the TASK
+
+![Image](https://github.com/user-attachments/assets/6a94eff8-b42b-4bf2-912b-eb277c4cdcb3)
